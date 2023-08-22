@@ -1,2 +1,2 @@
 # Tetris-Clone
-Created with CodeSandbox
+A tetris app using Vanilla js.
